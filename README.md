@@ -18,7 +18,7 @@ Este repositorio contiene ejercicios propuestos por rollingcode a modo de practi
 ## Clonar repo
 
 ```bash
-git clone jhkjsdhkdshkj
+git clone https://github.com/LeooQuipildor/TP1-JS.git
 ```
 
 ## Como contribuir en el proyecto
